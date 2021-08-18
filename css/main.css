@@ -1,0 +1,29 @@
+html {
+    background-color: #24242d;
+    color: white;
+    font-family: Raleway;
+    letter-spacing: 0.5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.part2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: medium;
+}
+
+
